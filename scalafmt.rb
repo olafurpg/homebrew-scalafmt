@@ -2,7 +2,7 @@ class Scalafmt < Formula
   desc "Optinionated code formatter for Scala."
   homepage "https://github.com/olafurpg/scalafmt"
   url "https://github.com/olafurpg/scalafmt/releases/download/v0.1.3/scalafmt.tar.gz"
-  sha256 "9cb8cb2c4920ddfe81c37ac38d5264f83052cbb049c15a0267864b346bcb4a3f"
+  sha256 "3e11cd4fa0001a974cc6ded5bdfb8303d4ad507b22a97d971820beb894f38450"
   version "0.1.3"
 
   def install
