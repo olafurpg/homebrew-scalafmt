@@ -1,5 +1,5 @@
 class Scalafmt < Formula
-  desc "Optinionated code formatter for Scala."
+  desc "Opinionated code formatter for Scala."
   homepage "https://github.com/olafurpg/scalafmt"
   url "https://github.com/olafurpg/scalafmt/releases/download/v0.1.4/scalafmt.tar.gz"
   sha256 "d0d50e98fa82458e25e2ec23c8cc9e9e28fb0646af92171680d5fcc39c31ad54"
