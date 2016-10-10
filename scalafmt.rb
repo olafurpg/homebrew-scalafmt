@@ -1,9 +1,9 @@
 class Scalafmt < Formula
   desc "Code formatter for Scala."
   homepage "https://github.com/olafurpg/scalafmt"
-  url "https://github.com/olafurpg/scalafmt/releases/download/v0.4.4/scalafmt.tar.gz"
-  sha256 "4d0be4b49ab1a26a2d2fe73c5b4fff8d6e81556d1fa8dbb4cb37001753b0189f"
-  version "0.4.4"
+  url "https://github.com/olafurpg/scalafmt/releases/download/v0.4.5/scalafmt.tar.gz"
+  sha256 "edfc65716bc9541e0a9da5b88d378fbddb39c6756bf349aed63e9d177b879407"
+  version "0.4.5"
 
   def install
     prefix.install "cli/target/scala-2.11/scalafmt.jar"
