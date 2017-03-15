@@ -2,7 +2,7 @@ class Scalafmt < Formula
   desc "Code formatter for Scala."
   homepage "https://github.com/scalameta/scalafmt"
   url "https://github.com/scalameta/scalafmt/releases/download/v0.6.4/scalafmt.tar.gz"
-  sha256 "4112e971c35761ded03d956be0549a799f5452a636356665484d43a5f694136c"
+  sha256 "52919adcb159111e04908626c5885ee7ff93162d6ed2ec77ce15b65a55406b06"
   version "0.6.4"
 
   def install
