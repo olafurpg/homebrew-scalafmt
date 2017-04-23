@@ -6,7 +6,7 @@ class Scalafmt < Formula
   version "0.7.0-RC1"
 
   def install
-    prefix.install "cli/target/scala-2.12/scalafmt.jar"
+    prefix.install "scalafmt-cli/target/scala-2.12/scalafmt.jar"
     system "./bin/configure"
     inreplace "bin/scalafmt", "PATH_TO", prefix
     bin.install "bin/scalafmt"
